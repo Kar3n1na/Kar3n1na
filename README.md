@@ -1,16 +1,20 @@
 # 👋 Hi, I’m Karen Tapia 👋
 
+
+
 I’m a developer in development, psychologist and coffe lover. 
 I describe myself as a curious girl and a learning enthusiast 
 I'm sure that technology is shaping our world and helping to 
 improve our lifes and i wanna be part of it 
 
-Student at <Laboratoria> 
+Student at Laboratoria
 
 ## ¡Get in touch! 
 
+
 [<img align="left" alt="Karen Tapia|LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
 
 ## Lenaguajes and Tools
 
