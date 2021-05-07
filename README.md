@@ -1,11 +1,13 @@
+ <img align="right" alt="GIF" src="https://github.com/Kar3n1na/Kar3n1na/blob/main/GIrlWithCat.gif" width="500" height="320" />
+
 # 👋 Hi, I’m Karen Tapia 👋
-
-
 
 I’m a developer in development, psychologist and coffe lover. 
 I describe myself as a curious girl and a learning enthusiast 
 I'm sure that technology is shaping our world and helping to 
-improve our lifes and i wanna be part of it 
+improve our lifes and i wanna be part of it <3.
+
+Make it simple and make it happen.
 
 Student at Laboratoria
 
