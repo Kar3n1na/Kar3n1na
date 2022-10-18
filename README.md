@@ -34,3 +34,12 @@ Make it simple and make it happen.
 Kar3n1na/Kar3n1na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br>
+
+## Stats 
+[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kar3n1na&count_private=true&show_icons=true&theme=radical)]
+
+## Most Used Lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kar3n1na&hide=Ruby)] 
+
