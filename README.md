@@ -9,7 +9,6 @@ improve our lifes and i wanna be part of it <3.
 
 Make it simple and make it happen.
 
-Student at Laboratoria
 
 ## ¡Get in touch! 
 
